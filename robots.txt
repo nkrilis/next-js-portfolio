@@ -1,3 +1,3 @@
 User-Agent: *
 
-Sitemap: next-js-portfolio/sitemap.xml
+Sitemap: nkrilis.github.io/next-js-portfolio/sitemap.xml
