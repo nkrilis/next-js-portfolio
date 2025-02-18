@@ -1,4 +1,4 @@
-const baseURL = "nick-krilis.com";
+const baseURL = "nkrilis.github.io";
 
 const routes = {
   "/": true,
