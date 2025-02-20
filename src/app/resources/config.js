@@ -1,4 +1,4 @@
-const baseURL = "nkrilis.github.io";
+const baseURL = "/next-js-portfolio";
 
 const routes = {
   "/": true,

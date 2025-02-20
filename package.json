@@ -7,8 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "predeploy": "touch out/.nojekyll",
-    "deploy": "gh-pages -d out --dotfiles"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "@floating-ui/react-dom": "^2.1.1",
