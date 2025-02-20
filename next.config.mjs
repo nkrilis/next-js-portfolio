@@ -12,5 +12,4 @@ const nextConfig = {
   reactStrictMode: true,
   basePath: "/next-js-portfolio",
 };
-
 export default withMDX(nextConfig);
