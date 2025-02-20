@@ -52,8 +52,8 @@ const home = {
     <>
       I am a full stack web developer always looking for new opportunities to grow. 
       Thank you for visting my page, here you will find some projects I have done along 
-      with other ones I am currently working on! Looking to collaborate, send me a 
-      message below and I will get back to you as soon as possible!
+      with other ones I am currently working on! Looking to collaborate, schedule a call 
+      with me below and I will get back to you as soon as possible!
     </>
   ),
 };
